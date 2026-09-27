@@ -6,6 +6,7 @@ type: software
 version: 1.0.0
 date-released: "2026-09-27"
 url: "https://github.com/1947314628-ui/sp5c-dam-benchmark"
+doi: 10.5281/zenodo.22998259
 license: MIT
 authors:
   - family-names: Yin
