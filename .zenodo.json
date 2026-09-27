@@ -24,22 +24,22 @@
   ],
   "related_identifiers": [
     {
-      "identifier": "GSE285766",
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE285766",
       "relation": "isDerivedFrom",
       "resource_type": "dataset",
-      "scheme": "other"
+      "scheme": "url"
     },
     {
-      "identifier": "GSE172167",
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE172167",
       "relation": "isDerivedFrom",
       "resource_type": "dataset",
-      "scheme": "other"
+      "scheme": "url"
     },
     {
-      "identifier": "GSE162807",
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162807",
       "relation": "isDerivedFrom",
       "resource_type": "dataset",
-      "scheme": "other"
+      "scheme": "url"
     }
   ],
   "notes": "Data remain subject to the original GEO terms of use."
