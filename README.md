@@ -7,7 +7,7 @@ Code and processed data for the manuscript:
 
 - **Project name**: SP5C DAM-state benchmark — analysis code and processed data
 - **Project home page**: https://github.com/1947314628-ui/sp5c-dam-benchmark
-- **Archived version**: Zenodo DOI, minted on the `v1.0` release
+- **Archived version**: Zenodo DOI, minted on the `v1.0.0` release
 - **Operating system(s)**: platform independent (analysis run on Linux; figures generated on Windows 11)
 - **Programming language**: Python 3.11.2; R 4.6.0
 - **Other requirements**: `environment/python_requirements.txt`, `environment/R_sessionInfo.txt`
