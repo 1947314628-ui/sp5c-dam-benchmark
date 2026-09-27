@@ -1,0 +1,10 @@
+condition,dam_state,n,pct
+CON,Homeostatic,75,33.94
+CON,Intermediate,83,37.56
+CON,DAM-like,63,28.51
+CFA,Homeostatic,56,23.05
+CFA,Intermediate,95,39.09
+CFA,DAM-like,92,37.86
+TB,Homeostatic,130,32.02
+TB,Intermediate,170,41.87
+TB,DAM-like,106,26.11

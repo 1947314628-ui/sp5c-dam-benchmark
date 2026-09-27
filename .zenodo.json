@@ -1,0 +1,46 @@
+{
+  "title": "SP5C DAM-state benchmark: analysis code and processed data",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "description": "<p>Analysis code, exported per-cell CSVs, benchmark scripts and environment pins for a single-nucleus RNA-seq study of microglial disease-associated-microglia (DAM)-like states in the mouse trigeminal spinal nucleus caudalis (Sp5C) under orofacial inflammatory pain.</p><p>The archive contains the three benchmarks reported in the manuscript (DAM-state scoring definitions across three datasets; canonical CellChat versus LIANA flavours for cell&ndash;cell communication inference; four batch-integration strategies), the demonstration-case analyses, every processed CSV underlying the figures and tables, and the exact R and Python environment pins. All figures are drawn from the shipped CSV exports.</p><p>Raw sequence data are not included and remain available from GEO (GSE285766, GSE172167, GSE162807); the archived files are the processed outputs generated from them.</p><p>Companion code for: Yin T, Zhang H, Huang J, Li W, Li S, Liu J. Orofacial inflammatory pain is accompanied by a disease-associated microglial state transition in the trigeminal spinal nucleus caudalis (manuscript in preparation).</p>",
+  "creators": [
+    {"name": "Yin, Tong", "orcid": "0009-0009-0881-0060"},
+    {"name": "Zhang, Hua", "orcid": "0009-0001-0536-8635"},
+    {"name": "Huang, Jianpeng", "orcid": "0000-0002-7724-7947"},
+    {"name": "Li, Wenting", "orcid": "0000-0002-7674-6453"},
+    {"name": "Li, Sheng", "orcid": "0000-0003-1401-0923"},
+    {"name": "Liu, Jianhua", "orcid": "0000-0003-4111-6993"}
+  ],
+  "keywords": [
+    "microglia",
+    "disease-associated microglia",
+    "single-nucleus RNA sequencing",
+    "Sp5C",
+    "orofacial pain",
+    "benchmarking",
+    "cell-cell communication",
+    "batch integration"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "GSE285766",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "other"
+    },
+    {
+      "identifier": "GSE172167",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "other"
+    },
+    {
+      "identifier": "GSE162807",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "other"
+    }
+  ],
+  "notes": "Data remain subject to the original GEO terms of use."
+}

@@ -1,0 +1,9 @@
+*.rds
+*.h5ad
+*.png
+*.pdf
+*.zip
+mats/
+export/
+output/
+.Rhistory

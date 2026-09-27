@@ -1,0 +1,13 @@
+celltype,condition,apoe_mean,apoe_pct,n
+Astrocytes,CFA,3.022,85.825,388
+Astrocytes,CON,2.848,91.447,304
+Astrocytes,TB,3.066,90.511,548
+Microglia,CFA,1.363,45.267,243
+Microglia,CON,0.401,15.385,221
+Microglia,TB,0.911,32.759,406
+OPCs,CFA,1.925,83.744,203
+OPCs,CON,1.668,78.947,133
+OPCs,TB,1.838,74.777,337
+Oligodendrocytes,CFA,1.075,38.887,7131
+Oligodendrocytes,CON,1.023,39.714,4749
+Oligodendrocytes,TB,0.864,31.637,11120

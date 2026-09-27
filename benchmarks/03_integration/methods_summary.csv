@@ -1,0 +1,5 @@
+method,n_clusters,ari_vs_sample,ari_vs_condition,wmean_entropy_sample,mean_top_sample_share,runtime_s
+harmony,38,0.0037,0.0002,0.9243,31.54,0.0
+baseline,39,0.0033,0.0001,0.9222,31.69,122.4
+bbknn,33,0.0054,0.0009,0.9229,31.79,60.2
+scvi,36,0.0124,0.0038,0.9233,31.95,61.2

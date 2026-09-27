@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code or the processed data it contains, please cite the archived release (see the doi field, or the Zenodo record linked from this repository)."
+title: "SP5C DAM-state benchmark: analysis code and processed data"
+abstract: "Analysis code, exported per-cell CSVs, benchmark scripts and environment pins for a single-nucleus RNA-seq study of microglial DAM-like states in the mouse trigeminal spinal nucleus caudalis (Sp5C) under orofacial inflammatory pain. Contains the three benchmarks (DAM-state scoring definitions, cell-cell communication inference, batch integration) and the scripts that draw every manuscript figure; all figures are drawn from the shipped CSV exports only."
+type: software
+version: 1.0.0
+date-released: "2026-09-27"
+url: "https://github.com/1947314628-ui/sp5c-dam-benchmark"
+license: MIT
+authors:
+  - family-names: Yin
+    given-names: Tong
+    orcid: "https://orcid.org/0009-0009-0881-0060"
+  - family-names: Zhang
+    given-names: Hua
+    orcid: "https://orcid.org/0009-0001-0536-8635"
+  - family-names: Huang
+    given-names: Jianpeng
+    orcid: "https://orcid.org/0000-0002-7724-7947"
+  - family-names: Li
+    given-names: Wenting
+    orcid: "https://orcid.org/0000-0002-7674-6453"
+  - family-names: Li
+    given-names: Sheng
+    orcid: "https://orcid.org/0000-0003-1401-0923"
+  - family-names: Liu
+    given-names: Jianhua
+    orcid: "https://orcid.org/0000-0003-4111-6993"
+keywords:
+  - microglia
+  - disease-associated microglia
+  - single-nucleus RNA sequencing
+  - Sp5C
+  - orofacial pain
+  - benchmarking
+  - cell-cell communication
+  - batch integration
